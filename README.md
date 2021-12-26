@@ -28,4 +28,4 @@ There are a lot of free courses you can learn from. Below I have listed some of 
      : [https://youtu.be/gaC-l9MAE9Q](https://youtu.be/gaC-l9MAE9Q)
    - Vercel Official Website: https://vercel.com/
 
-   _Note that on the above list I din't mention some popular technologies such as SCSS, Next.js and others. I recommend you learn the above first and then you can explore the rest after having a solid understing of the above_
+   _Note that on the above list I didn't mention some popular technologies such as SCSS, Next.js and others. I recommend you learn the above first and then you can explore the rest after having a solid understing of the above_
