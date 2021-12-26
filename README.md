@@ -2,7 +2,7 @@
 
 This is my ultimate guide to becoming a front-end web developer in 2022 with resources.
 
-There are a lot of free courses you can learn from. Below I have listed some of the best from YouTube. If you dont like learning with videos, I recommend you start your journey of (freecodecamp.org)[https://www.freecodecamp.org/]
+There are a lot of free courses you can learn from. Below I have listed some of the best from YouTube. If you dont like learning with videos, I recommend you start your journey on [freecodecamp](https://www.freecodecamp.org/)
 
 1. **Command-line/Terminal**
    - FreeCodeCamp - Command-line Crash Course: [https://youtu.be/yz7nYlnXLfE](https://youtu.be/yz7nYlnXLfE)
