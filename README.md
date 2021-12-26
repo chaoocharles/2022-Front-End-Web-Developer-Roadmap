@@ -2,10 +2,10 @@ This is my ultimate guide to becoming a front-end web developer in 2022 with res
 
 There are a lot of free courses you can learn from. Below I have listed some of the best from YouTube. If you don't like learning with videos, I recommend you start your journey on [freecodecamp](https://www.freecodecamp.org/)
 
-##I have also compiled this guide in a video 👇
+## I have also compiled this guide in a video 👇
 
 > Subscribe to my channel for more
-> {% youtube NMNvIWo60wI %}
+> Link: https://youtu.be/NMNvIWo60wI
 
 ## #100daysOfCode
 
