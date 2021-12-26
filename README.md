@@ -4,8 +4,8 @@ There are a lot of free courses you can learn from. Below I have listed some of 
 
 ## I have also compiled this guide in a video 👇
 
-> Subscribe to my channel for more
-> Link: https://youtu.be/NMNvIWo60wI
+> Subscribe to my channel for more.
+> Link to the video: https://youtu.be/NMNvIWo60wI
 
 ## #100daysOfCode
 
